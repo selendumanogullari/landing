@@ -1,0 +1,13 @@
+landing page is a one page app
+    has sections
+header has logo and app name and horizontal navigation bar
+a hero section has a background picture, a call to action, a sentence and a call to action
+there are optional sections as features, benefits and testimonials
+the sections can have blocks. A block can consist of an image, a title and a text block.
+landing page can have a footer section with logo, title, sentence and vertical navigation bar and a copyright.
+
+TODO:
+    1. installer
+    2. admin
+    3. users
+    4. access control: (users, visitors, admins, moderators)
